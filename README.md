@@ -1,9 +1,19 @@
 ### Hi there 👋
-My name is Cirano, I'm 22 years old and I'm changing my carrer 😁 I recently graduated in Civil Engineering, but during my graduation, I noticed that I really liked the disciplines and jobs that used programming, so I realized that now was the time to focus on what really is my passion: software development.
-A few days ago I finished the Generation's Bootcamp where I learned JAVA, Spring Boot, React and improved my communication, adaptability and future orientation through teamwork.
+4+ years of expertise crafting software development solutions mainly in the back-end with an emphasis on scalability and security. AWS and Azure certified. I currently contribute to the success of a multinational company by collaborating with international teams to build and maintain high-impact software. Engineering background provides a solid foundation for problem-solving and innovation.
+
+Contact me: ciranobelardony@gmail.com
+Main skills:
+- JAVA
+- Python
+- SQL
+- Azure (Certified AZ-900)
+- AWS (Certified Cloud Practitioner)
+- GCP
+- Microservices 
+- React
 
 ### Portifolio
-Pessoal Blog: https://blogpessoal-cirano.netlify.app/home
+Personal Blog: https://blogpessoal-cirano.netlify.app/home
 
 Marketplace "Botanic House": https://botanichouse.netlify.app/
 
