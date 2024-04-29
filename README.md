@@ -12,10 +12,6 @@ Main skills:
 - Microservices 
 - React
 
-### Portifolio
-Personal Blog: https://blogpessoal-cirano.netlify.app/home
-
-Marketplace "Botanic House": https://botanichouse.netlify.app/
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CiranoB&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
